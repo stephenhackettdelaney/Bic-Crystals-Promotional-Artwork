@@ -1,3 +1,3 @@
 # Bic-Crystal-Promotional-Artwork
 
-Promotional Posters for a band's single releases.
+Promotional Posters For A Band's Single Releases.
